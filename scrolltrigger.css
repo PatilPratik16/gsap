@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: #212121;
+}
+h1{
+    text-align: center;
+}
+.p1{
+    height: 100%;
+    width: 100%;
+    background-color: lightcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p2{
+    height: 100%;
+    width: 100%;
+    background-color: lightcoral;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.p3{
+    height: 100%;
+    width: 100%;
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: violet;
+}

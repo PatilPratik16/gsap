@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.p1{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+}
+.p2{
+    height: 100%;
+    width: 100%;
+    background-color: lightcoral;
+}
+.p3{
+    height: 100%;
+    width: 100%;
+    background-color: lightgreen;
+}
+h1{
+    font-size: 40vw;
+    padding: 0 100px;
+}
+body{
+    overflow-x: hidden;
+}
